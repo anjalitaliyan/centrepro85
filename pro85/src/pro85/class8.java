@@ -5,7 +5,7 @@ public class class8
 public static void main(String[] args) 
 {
 	int a=1;
-	for(int i=1;i<=6;i++)
+	for(int i=1;i<=10;i++)
 	{
 		a=a*i;
 	}
